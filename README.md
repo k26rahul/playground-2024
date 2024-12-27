@@ -1,6 +1,6 @@
 # Playground Archive 2024 📦🔍
 
-This repository contains archived experimental projects and ideas from 2024.
+This repository contains a collection of past experiments and ideas from 2024.
 
 ## Usage
 
